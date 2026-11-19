@@ -5,3 +5,5 @@ Secrtion:261-2A
 About Me:
 I am student learning Github and web development.
 I want to improve my programming and computer skillss.
+
+My hobbies are listening to music , watching movies, and learning new things.
