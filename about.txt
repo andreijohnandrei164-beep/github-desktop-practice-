@@ -2,3 +2,8 @@ Name:John Andrei Grengia
 Course:BSIT
 Secrtion:261-2A
 This is a temporary change that i will discard.
+
+Hobbies:
+-Listening to music
+-Watching movies
+-Playing online games
