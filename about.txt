@@ -1,10 +1,4 @@
 Name:John Andrei Grengia
 Course:BSIT
 Secrtion:261-2A
-
-About Me:
-I am student learning Github and web development.
-I want to improve my programming and computer skillss.
-
-My hobbies are listening to music , watching movies, and learning new things.
-My skills include computer  knowledge, communication, and teamwork.
+This is a temporary change that i will discard.
